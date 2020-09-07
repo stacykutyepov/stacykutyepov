@@ -6,4 +6,4 @@
 ___
 
 <h3>Portfolio</h3>
-<a href="https://codemyjourney.netlify.app/" target="_blank" ><img src="https://img.icons8.com/fluent/96/000000/web-design.png" width="62"/></a>
+<a href="https://codemyjourney.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluent/96/000000/web-design.png" width="62"/></a>
