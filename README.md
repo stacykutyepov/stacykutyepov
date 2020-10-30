@@ -1,6 +1,6 @@
 
 <h3>Linkedin</h3>
-<a href="https://www.linkedin.com/in/stacy-kutyepov/" target="_blank"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png" width="42"/></a>
+<a href="https://www.linkedin.com/in/stacykutyepov/" target="_blank"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png" width="42"/></a>
 
 </br>
 </br>
