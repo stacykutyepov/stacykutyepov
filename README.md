@@ -1,7 +1,7 @@
 
 ### Hi, how are you? 👋
 
-- 😎 I am Front-End Developer with a passion for design and marketing.
+- 😎 I am Software Developer with a passion for design and marketing.
 - 📝 Check out my [portfolio](https://codemyjourney.netlify.app/) 📝
 - 📫 Shoot me an [email](mailto:i.kutyepov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/stacykutyepov) :)
 <h3>Portfolio</h3>
