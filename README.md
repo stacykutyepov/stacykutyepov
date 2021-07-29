@@ -1,7 +1,7 @@
 
 ### Hi, how are you? 👋
 
-- 😎 I am Software Developer with a passion for Science and Human Behavior.
+- 😎 I am Software Engineer with a passion for Science and Human Behavior.
 - 📫 Shoot me an [Email](mailto:i.kutyepov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/stacykutyepov) :)
 <h3>Recent Articles</h3>
 
