@@ -1,6 +1,5 @@
 
 ### Hi, how are you? 👋
-https://gprm.itsvg.in/
 
 - 😎 I am Software Engineer with a passion for Science and Human Behavior.
 - 📫 Shoot me an [Email](mailto:i.kutyepov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/stacykutyepov) :)
