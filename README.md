@@ -1,8 +1,8 @@
 
 ### Hi, how are you? 👋
 
-- 😎 I am Software Engineer with a passion for Science and Human Behavior.
-- 📫 Shoot me an [Email](mailto:i.kutyepov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/stacykutyepov) :)
+- 😎 I am Software Engineer working at Amazon Ads with a passion for Science and Human Behavior.
+- 📫 Shoot me an [Email](mailto:i.kutyepov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/stacykutyepov)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codemyjourney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stacykutyepov) 
